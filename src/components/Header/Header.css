@@ -1,0 +1,14 @@
+.heading {
+  font-family: "Bebas Neue", cursive;
+  font-size: 2.5rem;
+  text-align: center;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  letter-spacing: 4px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 2px 4px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  text-shadow: 4px 4px 0px rgba(204, 204, 204, 0.15),
+    -4px 0 0px rgba(231, 229, 229, 0.15), 7px 4px 0 rgba(184, 184, 184, 0.15);
+  background: linear-gradient(rgba(0, 0, 0, 0.7) 66.66%, transparent 98%);
+  color: #fff;
+}
